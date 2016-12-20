@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SSB4 Personnages</string>
+    <string name="intro">Cette app vous dit tout sur les personnages de Super Smash Bros Wii U</string>
+    <string name="btn_list">MàJ Liste</string>
+    <string name="btn_2nd">Liste Personnages</string>
+    <string name="btn_wiki">Aller au wiki</string>
+    <string name="notif">Regardez la liste de personnages!</string>
+    <string name="dialog">Fichier introuvable!\nMettez à jour votre liste</string>
+    <string name="notiftitle">Liste SSB4 en cours...</string>
+</resources>
