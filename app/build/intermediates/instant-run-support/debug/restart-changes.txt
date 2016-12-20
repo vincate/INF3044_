@@ -1,0 +1,1 @@
+CHANGED,C:\Users\romain seusse 2\Desktop\Android project\SoundUp\Projet_ESIEA\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\romainseusse2\projet_esiea\BiersAdapter.class

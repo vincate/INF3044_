@@ -1,0 +1,110 @@
+[
+    {
+        "outputFile": "C:\\Users\\romain seusse 2\\Desktop\\Android project\\SoundUp\\Projet_ESIEA\\app\\build\\intermediates\\res\\merged\\debug\\values-en\\values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "C:\\Users\\romain seusse 2\\Desktop\\Android project\\SoundUp\\Projet_ESIEA\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 50,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\Users\\romain seusse 2\\Desktop\\Android project\\SoundUp\\Projet_ESIEA\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 48,
+                    "endOffset": 203
+                },
+                "from": {
+                    "file": "C:\\Users\\romain seusse 2\\Desktop\\Android project\\SoundUp\\Projet_ESIEA\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 208,
+                    "endColumn": 47,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "C:\\Users\\romain seusse 2\\Desktop\\Android project\\SoundUp\\Projet_ESIEA\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 256,
+                    "endColumn": 75,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "C:\\Users\\romain seusse 2\\Desktop\\Android project\\SoundUp\\Projet_ESIEA\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 442,
+                        "endColumn": 75,
+                        "endOffset": 513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 332,
+                    "endColumn": 120,
+                    "endOffset": 448
+                },
+                "from": {
+                    "file": "C:\\Users\\romain seusse 2\\Desktop\\Android project\\SoundUp\\Projet_ESIEA\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 453,
+                    "endColumn": 56,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "C:\\Users\\romain seusse 2\\Desktop\\Android project\\SoundUp\\Projet_ESIEA\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 59,
+                    "endOffset": 565
+                },
+                "from": {
+                    "file": "C:\\Users\\romain seusse 2\\Desktop\\Android project\\SoundUp\\Projet_ESIEA\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            }
+        ]
+    }
+]

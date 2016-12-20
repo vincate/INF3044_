@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SSB4 Characters</string>
+    <string name="btn_2nd">Character List</string>
+    <string name="btn_list">Update List</string>
+    <string name="btn_wiki">Go to wiki</string>
+    <string name="dialog">File not found!\nPlease Update your list</string>
+    <string name="intro">This app tells you everything you need to know about Super Smash Bros Wii U characters</string>
+    <string name="notif">Check characters list!</string>
+    <string name="notiftitle">SSB4 List Running...</string>
+</resources>
